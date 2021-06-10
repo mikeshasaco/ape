@@ -5,6 +5,7 @@
 <style>
     .header{
   background-image: url('images/ape.png');
+  animation: holoCard 15s ease infinite;
 
     }
 
@@ -373,7 +374,7 @@
             <div class="row">
                <div class="col-lg-12">                     
                 <video width="100%" height="100%" controls>
-                  <source src="/video/render.mp4" type="video/mp4">
+                  <source src="/video/render.mp4"   type="video/mp4">
                 </video>
 
                </div>
