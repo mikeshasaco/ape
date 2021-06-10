@@ -5,11 +5,11 @@
 <style>
     .header{
   background-image: url('images/ape.jpg');
-    animation: holoCard 15s ease infinite;
+    /* animation: holoCard 15s ease infinite;
      filter: brightness(1);
   transition: filter 0.5s ease;
 
-  overflow: hidden;
+  overflow: hidden; */
 
     }
 
@@ -229,7 +229,7 @@
 </style>
 
     <!-- Header -->
-    <div class="header">
+    <div class="header" >
         <div class="ocean">
             <div class="wave"></div>
             <div class="wave"></div>
@@ -347,21 +347,21 @@
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
                         <i class="fas fa-rocket"></i>
-                        <h4>Web framework</h4>
+                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Web framework</h4>
                         <p>Gemdev is a young and popular web framework designed to help users build websites and web apps in half the time it would take without it</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
                         <i class="fas fa-images"></i>
-                        <h4>Unlimited components</h4>
+                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Unlimited components</h4>
                         <p>Browse the enormous component collection and find the right parts for your online project. Cards, lists, image sliders, everything you need</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
                         <i class="fas fa-download"></i>
-                        <h4>Easy to download</h4>
+                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Easy to download</h4>
                         <p>It's very easy to download Gemdev just login with your credentials and click the green download button. The package will download instantly</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
