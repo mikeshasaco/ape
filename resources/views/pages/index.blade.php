@@ -5,7 +5,7 @@
 <style>
     .header{
   background-image: url('images/ape.png');
-  animation: holoCard 15s ease infinite;
+  /* animation: holoCard 15s ease infinite; */
 
     }
 
@@ -249,7 +249,7 @@
                     <div class="text-container">
                         <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Bape Ape</h3>
                         <p class="p-large">“I've designed this framwork based on my experience with building websites for many types of industries. What's great about Gemdev is that it can be used by anyone from absolute beginners to skilled web developers from around the world”</p>
-                        <img  src="ape.jpg" alt="alternative">
+                        <img  src="images/ape.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
                         <h6>Donna Staple, Founder</h6>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -281,10 +281,9 @@
                             </li>
                             <li class="media">
                                 <img src="images/gorilla.png" height="30px" width="30px" >
-                                <h4 style="color: white; font-family: 'Creepster', cursive; "> Dev Percent</h4>
+                                <h4 style="color: white; font-family: 'Creepster', cursive; "> Marketing  Percent</h4>
                             </li>
                         </ul> 
-                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">Lightbox</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -342,21 +341,18 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <i class="fas fa-rocket"></i>
                         <h4 style="font-family: 'Creepster', cursive;  color:red;">Web framework</h4>
                         <p>Gemdev is a young and popular web framework designed to help users build websites and web apps in half the time it would take without it</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <i class="fas fa-images"></i>
                         <h4 style="font-family: 'Creepster', cursive;  color:red;">Unlimited components</h4>
                         <p>Browse the enormous component collection and find the right parts for your online project. Cards, lists, image sliders, everything you need</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <i class="fas fa-download"></i>
                         <h4 style="font-family: 'Creepster', cursive;  color:red;">Easy to download</h4>
                         <p>It's very easy to download Gemdev just login with your credentials and click the green download button. The package will download instantly</p>
                     </div> <!-- end of text-box -->
