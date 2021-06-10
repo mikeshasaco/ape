@@ -4,7 +4,7 @@
 
 <style>
     .header{
-  background-image: url('images/ape.jpg');
+  background-image: url('ape.jpg');
     /* animation: holoCard 15s ease infinite;
      filter: brightness(1);
   transition: filter 0.5s ease;
@@ -253,7 +253,7 @@
                     <div class="text-container">
                         <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Bape Ape</h3>
                         <p class="p-large">“I've designed this framwork based on my experience with building websites for many types of industries. What's great about Gemdev is that it can be used by anyone from absolute beginners to skilled web developers from around the world”</p>
-                        <img  src="images/ape.jpg" alt="alternative">
+                        <img  src="ape.jpg" alt="alternative">
                         <h6>Donna Staple, Founder</h6>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
