@@ -4,12 +4,7 @@
 
 <style>
     .header{
-  background-image: url('ape.jpg');
-    /* animation: holoCard 15s ease infinite;
-     filter: brightness(1);
-  transition: filter 0.5s ease;
-
-  overflow: hidden; */
+  background-image: url('images/angrybg.png');
 
     }
 
