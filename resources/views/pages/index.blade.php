@@ -12,8 +12,50 @@
   
     }
 
-  
 
+    /* FAQ box */
+.question-title h3{
+    font-size: 24px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 15px;
+    margin: 0;
+    cursor: pointer;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    position: relative;
+}
+
+.question-title h3:after{
+    content: '+';
+    position: absolute;
+    right: 20px;
+    font-size: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.question-title.active h3:after{
+    content: '-';
+}
+
+.content-main{
+    background-color: #fff;
+    display: none;
+}
+.content-inner{
+    padding: 5%;
+}
+.content-inner p {
+    font-size: 24px;
+}
+.content-main *{
+    margin-top: 0;
+    line-height: 1.5;
+}
+.question-title{
+    border-bottom: 1px solid #fff;
+}
 
 
     
@@ -423,9 +465,77 @@
 
 
 
+     <section id="Merchant-help"  style="padding-top: 100px; padding-bottom:100px; background:black;" >
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; font-family: 'Creepster', cursive;  color:red; ">FAQ</h2>
+
+                    <div class="question-title">
+                        <h3 style="color: red; font-family: 'Creepster', cursive;">  What is Bape Token? </h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p>Bape Token  is a fully decentralized, peer-to-peer digital currency, owned by its community with instant rewards for holders.</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                   
+
+                        <div class="question-title">
+                        <h3 style="font-family: 'Creepster', cursive; color:red;"> Where can I get Bape Token?</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p>
+                                    You can buy on Uniswap (HERE) <br>
+                                    Contract Address is (HERE)
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                         <div class="question-title">
+                        <h3 style="font-family: 'Creepster', cursive; color:red;">          Do you have marketing planned? </h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p>
+                                     Yes please see our Marketing Roadmap above!
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+
+
+            </div>
+
+        </div>
+    </div>
+
+</section>
 
 
 
 
 
+@endsection
+
+@section('javascripts')
+<script  type="text/javascript">
+$(document).ready(function(){
+	$('.question-title h3').click(function(){
+		$(this).next('.content-main').slideToggle();
+		$(this).parent().toggleClass('active');
+		$(this).parent().siblings().children('.content-main').slideUp();
+		$(this).parent().siblings().removeClass('active');
+	});
+});
+</script>
 @endsection
