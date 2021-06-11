@@ -287,7 +287,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h3 style="color:red; font-family: 'Creepster', cursive; font-size:26px; text-align:center;">RoadMap</h3>
+                    <h3 style="color:red; font-family: 'Creepster', cursive; font-size:26px; text-align:center;">Marketing Plan</h3>
 
                 </div>
 
@@ -297,14 +297,11 @@
                     <div class="text-box bg-gray">
                         <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 1</h4>
                             <ul>
-                                <li>    Marketing plan </li>
-                                                                <li>List on major CEX </li>
+                                <li>Launch on Uniswap  </li>
                                 <li>    Launch on Uniswap </li>
                                 <li>    Start influencer Marketing </li>
                                 <li>    CMS Reddit post  </li>
-                                <li>   Apply for Coingecko  </li>
-                                <li>    Apply for coinhut & coinsniper </li>
-
+                              
                             </ul>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
@@ -312,13 +309,9 @@
                     <div class="text-box bg-gray">
                         <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 2</h4>
                             <ul>
-                                <li>    Marketing plan </li>
-                                                                <li>List on major CEX </li>
-                                <li>    Launch on Uniswap </li>
-                                <li>    Start influencer Marketing </li>
-                                <li>    CMS Reddit post  </li>
-                                <li>   Apply for Coingecko  </li>
-                                <li>    Apply for coinhut & coinsniper </li>
+                                <li>Apply for Coingecko </li>
+                                <li>Apply for CoinMarketCap</li>
+                                <li>YouTube & TikTok Marketing </li>
 
                             </ul>
                     </div> <!-- end of text-box -->
@@ -327,13 +320,10 @@
                     <div class="text-box bg-gray">
                         <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 3</h4>
                             <ul>
-                                <li>    Marketing plan </li>
-                                <li>List on major CEX </li>
-                                <li>    Launch on Uniswap </li>
-                                <li>    Start influencer Marketing </li>
-                                <li>    CMS Reddit post  </li>
-                                <li>   Apply for Coingecko  </li>
-                                <li>    Apply for coinhut & coinsniper </li>
+                                <li>Apply for Coinhut </li>
+                                <li>Apply for Coinsniper </li>
+                                <li>Contract audit done  </li>
+                                <li>Listing on CEX </li>
 
                             </ul>
                     </div> <!-- end of text-box -->
