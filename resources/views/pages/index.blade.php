@@ -270,6 +270,8 @@
   }
 }
 
+
+
   
 </style>
 
@@ -422,46 +424,7 @@
     <!-- end of details 1 -->
 
 
-    <!-- Details Lightbox -->
-    <!-- Lightbox -->
-	<div id="details-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
-        <div class="row">
-            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
-			<div class="col-lg-8">
-                <div class="image-container">
-                    <img class="img-fluid" src="images/details-lightbox.jpg" alt="alternative">
-                </div> <!-- end of image-container -->
-			</div> <!-- end of col -->
-			<div class="col-lg-4">
-                <h3>Goals Setting</h3>
-				<hr>
-                <p>The app can easily help you track your personal development evolution if you take the time to set it up.</p>
-                <h4>User Feedback</h4>
-                <p>This is a great app which can help you save time and make your live easier. And it will help improve your productivity.</p>
-                <ul class="list-unstyled li-space-lg">
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Splash screen panel</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Statistics graph report</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Events calendar layout</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Location details screen</div>
-                    </li>
-                    <li class="media">
-                        <i class="fas fa-check"></i><div class="media-body">Onboarding steps interface</div>
-                    </li>
-                </ul>
-                <a class="btn-solid-reg mfp-close page-scroll" href="#contact">Contact Us</a> <button class="btn-outline-reg mfp-close as-button" type="button">Back</button>
-			</div> <!-- end of col -->
-		</div> <!-- end of row -->
-    </div> <!-- end of lightbox-basic -->
-    <!-- end of lightbox -->
-    <!-- end of details lightbox -->
-
+  
 
 
 
@@ -472,10 +435,10 @@
                 <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; font-family: 'Creepster', cursive;  color:red; ">FAQ</h2>
 
                     <div class="question-title">
-                        <h3 style="color: red; font-family: 'Creepster', cursive;">  What is Bape Token? </h3>
+                        <h3 style="color: red; font-family: 'Creepster', cursive; font-size:22px;">  What is Bape Token? </h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p>Bape Token  is a fully decentralized, peer-to-peer digital currency, owned by its community with instant rewards for holders.</p>
+                                <p>Bape Token  is a fully decentralized, peer-to-peer digital currency, owned by it’s holders.</p>
                             </div>
 
                         </div>
@@ -485,7 +448,7 @@
                    
 
                         <div class="question-title">
-                        <h3 style="font-family: 'Creepster', cursive; color:red;"> Where can I get Bape Token?</h3>
+                        <h3 style="font-family: 'Creepster', cursive; color:red;font-size:22px;"> Where can I get Bape Token?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
@@ -499,7 +462,7 @@
                     </div>
 
                          <div class="question-title">
-                        <h3 style="font-family: 'Creepster', cursive; color:red;">          Do you have marketing planned? </h3>
+                        <h3 style="font-family: 'Creepster', cursive; color:red; font-size:22px;">          Do you have marketing planned? </h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
