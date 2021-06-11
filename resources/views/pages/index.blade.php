@@ -6,8 +6,15 @@
     .header{
   background-image: url('images/ape.png');
   /* animation: holoCard 15s ease infinite; */
+  background-repeat: no-repeat;
+  background-position: center;
 
+  
     }
+
+  
+
+
 
     
 .card {
@@ -228,7 +235,7 @@
     <div class="header" >
         <div class="ocean">
             <div class="wave"></div>
-            <div class="wave"></div>
+            <div class="wave" ></div>
         </div>
         <div class="container ">
             <div class="row">
@@ -250,7 +257,6 @@
                         <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Bape Ape</h3>
                         <p class="p-large">“Test words”</p>
                         <img  src="images/ape.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
-                        <h6>Donna Staple, Founder</h6>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -277,11 +283,24 @@
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <img src="images/gorilla.png" height="30px" width="30px" >
-                                <h4 style="color: white; font-family: 'Creepster', cursive;  "> Dev Percent</h4>
+                                <h4 style=" font-size: 18px; color: white; font-family: 'Creepster', cursive;padding-left:10px; ">Total Supply: 1,000,000,000,000 </h4>
+                            </li>
+
+                             <li class="media">
+                                <img src="images/gorilla.png" height="30px" width="30px" padding-right:10px; >
+                                <h4 style=" font-size:18px; color: white; font-family: 'Creepster', cursive;  padding-left:10px;">Dev Team: 10% Of Total Supply.</h4>
+                            </li>
+                             <li class="media">
+                                <img src="images/gorilla.png" height="30px" width="30px" padding-right:10px; >
+                                <h4 style=" font-size:18px; color: white; font-family: 'Creepster', cursive;  padding-left:10px;">Marketing: 5% Of Total Supply.</h4>
+                            </li>
+                            <li class="media">
+                                <img src="images/gorilla.png" height="30px" width="30px" padding-right:10px; >
+                                <h4 style=" font-size:18px; color: white; font-family: 'Creepster', cursive;  padding-left:10px;"> 6.9% Redistribution To Our Community Holders.</h4>
                             </li>
                             <li class="media">
                                 <img src="images/gorilla.png" height="30px" width="30px" >
-                                <h4 style="color: white; font-family: 'Creepster', cursive; "> Marketing  Percent</h4>
+                                <h4 style=" font-size: 18px; color: white; font-family: 'Creepster', cursive;padding-left:10px; ">  4.20% Burn of Total Supply.</h4>
                             </li>
                         </ul> 
                     </div> <!-- end of text-container -->
