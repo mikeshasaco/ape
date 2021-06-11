@@ -282,8 +282,6 @@
     <!-- end of about -->
 
 
-    
-
     <!-- Features -->
     <div id="features" class="basic-4" style="background: black;">
         <div class="container">
@@ -298,19 +296,46 @@
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
                         <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 1</h4>
-                        <p>Gemdev is a young and popular web framework designed to help users build websites and web apps in half the time it would take without it</p>
+                            <ul>
+                                <li>    Marketing plan </li>
+                                                                <li>List on major CEX </li>
+                                <li>    Launch on Uniswap </li>
+                                <li>    Start influencer Marketing </li>
+                                <li>    CMS Reddit post  </li>
+                                <li>   Apply for Coingecko  </li>
+                                <li>    Apply for coinhut & coinsniper </li>
+
+                            </ul>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
                         <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 2</h4>
-                        <p>Browse the enormous component collection and find the right parts for your online project. Cards, lists, image sliders, everything you need</p>
+                            <ul>
+                                <li>    Marketing plan </li>
+                                                                <li>List on major CEX </li>
+                                <li>    Launch on Uniswap </li>
+                                <li>    Start influencer Marketing </li>
+                                <li>    CMS Reddit post  </li>
+                                <li>   Apply for Coingecko  </li>
+                                <li>    Apply for coinhut & coinsniper </li>
+
+                            </ul>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
                         <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 3</h4>
-                        <p>It's very easy to download Gemdev just login with your credentials and click the green download button. The package will download instantly</p>
+                            <ul>
+                                <li>    Marketing plan </li>
+                                <li>List on major CEX </li>
+                                <li>    Launch on Uniswap </li>
+                                <li>    Start influencer Marketing </li>
+                                <li>    CMS Reddit post  </li>
+                                <li>   Apply for Coingecko  </li>
+                                <li>    Apply for coinhut & coinsniper </li>
+
+                            </ul>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
