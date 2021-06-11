@@ -233,15 +233,15 @@
 
     <!-- Header -->
     <div class="header" >
-        <div class="ocean">
+        {{-- <div class="ocean">
             <div class="wave"></div>
             <div class="wave" ></div>
-        </div>
+        </div> --}}
         <div class="container ">
             <div class="row">
                 <div class="col-md-12">
                     <h3 style="font-family: 'Creepster', cursive; text-align:Center; color:red; font-size:50px;">CountDown</h3>
-<a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">B</a>
+<a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">Bape</a>
 
                 </div>
             </div> <!-- end of row -->
@@ -265,6 +265,22 @@
     </div> <!-- end of basic-1 -->
     <!-- end of statement -->
 
+    
+    <!-- About -->
+    <div id="about" class="basic-5" style="background: black;">
+        <div class="container">
+            <div class="row">
+               <div class="col-lg-12">                     
+                <video width="100%" height="100%" controls>
+                  <source src="https://vouch.sfo2.digitaloceanspaces.com/home/forge/voucheryhub.com/storage/app/public/Coupon/couponimage/Render.mp4"   type="video/mp4">
+                </video>
+
+               </div>
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-5 -->
+    <!-- end of about -->
+
 
     
 
@@ -281,19 +297,19 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Phase 1</h4>
+                        <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 1</h4>
                         <p>Gemdev is a young and popular web framework designed to help users build websites and web apps in half the time it would take without it</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Phase 2</h4>
+                        <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 2</h4>
                         <p>Browse the enormous component collection and find the right parts for your online project. Cards, lists, image sliders, everything you need</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
-                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Phase 3</h4>
+                        <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 3</h4>
                         <p>It's very easy to download Gemdev just login with your credentials and click the green download button. The package will download instantly</p>
                     </div> <!-- end of text-box -->
                 </div> <!-- end of col -->
@@ -393,20 +409,6 @@
 
 
 
-    <!-- About -->
-    <div id="about" class="basic-5" style="background: black;">
-        <div class="container">
-            <div class="row">
-               <div class="col-lg-12">                     
-                <video width="100%" height="100%" controls>
-                  <source src="https://vouch.sfo2.digitaloceanspaces.com/home/forge/voucheryhub.com/storage/app/public/Coupon/couponimage/Render.mp4"   type="video/mp4">
-                </video>
-
-               </div>
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-5 -->
-    <!-- end of about -->
 
 
 
