@@ -307,7 +307,7 @@
                     <div class="text-container">
                         <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Explore Your Ape</h3>
                         <a href="https://t.me/bapetoken"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
-                        <a href=""><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
+                        <a href=" www.twitter.com/bapetoken"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
                         <a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">Bape</a>
                         <img  src="images/ape.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
@@ -483,12 +483,25 @@
 
                     </div>
 
-                                <div class="question-title">
+                    <div class="question-title">
                         <h3 style="font-family: 'Creepster', cursive; color:red;font-size:22px;"> How can i join the Telegram?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://t.me/bapetoken">Click Here</a>                                    
+                                        <a href="https://t.me/bapetoken">Click Here Telegram</a>                                    
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                        <div class="question-title">
+                        <h3 style="font-family: 'Creepster', cursive; color:red;font-size:22px;"> How can i follow us on Twitter?</h3>
+                        <div class="content-main">
+                            <div class="content-inner">
+                                <p>
+                                        <a href=" www.twitter.com/bapetoken">Click Here Twitter</a>                                    
                                 </p>
                             </div>
 
