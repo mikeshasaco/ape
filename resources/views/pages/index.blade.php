@@ -240,6 +240,7 @@
         <div class="container ">
             <div class="row">
                 <div class="col-md-12">
+                    <h3 style="font-family: 'Creepster', cursive; text-align:Center; color:red; font-size:50px;">CountDown</h3>
 <a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">B</a>
 
                 </div>
@@ -255,7 +256,7 @@
                 <div class="col-lg-12">
                     <div class="text-container">
                         <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Bape Ape</h3>
-                        <p class="p-large">“Test words”</p>
+                        {{-- <p class="p-large">“Test words”</p> --}}
                         <img  src="images/ape.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -358,6 +359,13 @@
     <div id="features" class="basic-4" style="background: black;">
         <div class="container">
             <div class="row">
+                <div class="col-lg-12">
+                    <h3 style="color:red; font-family: 'Creepster', cursive; font-size:26px; text-align:center;">RoadMap</h3>
+
+                </div>
+
+            </div>
+            <div class="row">
                 <div class="col-lg-4">
                     <div class="text-box bg-gray">
                         <h4 style="font-family: 'Creepster', cursive;  color:red;">Web framework</h4>
@@ -389,7 +397,7 @@
             <div class="row">
                <div class="col-lg-12">                     
                 <video width="100%" height="100%" controls>
-                  <source src="/video/render.mp4"   type="video/mp4">
+                  <source src="video/render.mp4"   type="video/mp4">
                 </video>
 
                </div>

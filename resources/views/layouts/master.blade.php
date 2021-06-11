@@ -6,7 +6,7 @@
     
 
     <!-- Webpage Title -->
-    <title>Gemdev Webpage Title</title>
+    <title>Bape World</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Knewave&display=swap" rel="stylesheet">
     <!-- Styles -->
@@ -22,7 +22,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="images/favicon.png">
+    <link rel="icon" href="images/ape.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -34,7 +34,7 @@
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Gemdev</a> -->
 
             <!-- Image Logo -->
-            <a class="navbar-brand " href="index.html" style="font-family: 'Creepster', cursive;  color:red; font-size:50px;"> Bape Ape</a> 
+            <a class="navbar-brand " href="index.html" style="font-family: 'Creepster', cursive; text-decoration:none; color:red; font-size:50px;"> Bape Ape</a> 
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
