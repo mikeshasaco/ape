@@ -266,6 +266,43 @@
     <!-- end of statement -->
 
 
+    
+
+    <!-- Features -->
+    <div id="features" class="basic-4" style="background: black;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3 style="color:red; font-family: 'Creepster', cursive; font-size:26px; text-align:center;">RoadMap</h3>
+
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="text-box bg-gray">
+                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Phase 1</h4>
+                        <p>Gemdev is a young and popular web framework designed to help users build websites and web apps in half the time it would take without it</p>
+                    </div> <!-- end of text-box -->
+                </div> <!-- end of col -->
+                <div class="col-lg-4">
+                    <div class="text-box bg-gray">
+                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Phase 2</h4>
+                        <p>Browse the enormous component collection and find the right parts for your online project. Cards, lists, image sliders, everything you need</p>
+                    </div> <!-- end of text-box -->
+                </div> <!-- end of col -->
+                <div class="col-lg-4">
+                    <div class="text-box bg-gray">
+                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Phase 3</h4>
+                        <p>It's very easy to download Gemdev just login with your credentials and click the green download button. The package will download instantly</p>
+                    </div> <!-- end of text-box -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+       
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-4 -->
+    <!-- end of features -->
+
     <!-- Details 1 -->
     <div id="details" class="basic-2" style="background: black;">
         <div class="container">
@@ -354,41 +391,6 @@
 
 
 
-
-    <!-- Features -->
-    <div id="features" class="basic-4" style="background: black;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h3 style="color:red; font-family: 'Creepster', cursive; font-size:26px; text-align:center;">RoadMap</h3>
-
-                </div>
-
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="text-box bg-gray">
-                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Web framework</h4>
-                        <p>Gemdev is a young and popular web framework designed to help users build websites and web apps in half the time it would take without it</p>
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-                <div class="col-lg-4">
-                    <div class="text-box bg-gray">
-                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Unlimited components</h4>
-                        <p>Browse the enormous component collection and find the right parts for your online project. Cards, lists, image sliders, everything you need</p>
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-                <div class="col-lg-4">
-                    <div class="text-box bg-gray">
-                        <h4 style="font-family: 'Creepster', cursive;  color:red;">Easy to download</h4>
-                        <p>It's very easy to download Gemdev just login with your credentials and click the green download button. The package will download instantly</p>
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-       
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-4 -->
-    <!-- end of features -->
 
 
     <!-- About -->
