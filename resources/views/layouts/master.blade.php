@@ -49,10 +49,10 @@
                 </ul>
                 <span class="nav-item social-icons">
                     <span class="fa-stack">
-                        <a href="#your-link">
+                        {{-- <a href="#your-link">
                             <i class="fas fa-circle fa-stack-2x"></i>
                             <i class="fab fa-facebook-f fa-stack-1x"></i>
-                        </a>
+                        </a> --}}
                     </span>
                     <span class="fa-stack">
                         {{-- <a href="#your-link">

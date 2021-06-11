@@ -241,7 +241,6 @@
             <div class="row">
                 <div class="col-md-12">
                     {{-- <h3 style="font-family: 'Creepster', cursive; text-align:Center; color:red; font-size:50px;">CountDown</h3> --}}
-<a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">Bape</a>
 
                 </div>
             </div> <!-- end of row -->
@@ -256,7 +255,8 @@
                 <div class="col-lg-12">
                     <div class="text-container">
                         <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Explore Your Ape</h3>
-                        {{-- <p class="p-large">“Test words”</p> --}}
+
+                        <a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">Bape</a>
                         <img  src="images/ape.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
