@@ -350,7 +350,6 @@
                     <div class="text-box bg-gray">
                         <h4 style="font-family: 'Creepster', cursive;  color:red; text-align:center;">Phase 1</h4>
                             <ul>
-                                <li>Launch on Uniswap  </li>
                                 <li>    Launch on Uniswap </li>
                                 <li>    Start influencer Marketing </li>
                                 <li>    CMS Reddit post  </li>
