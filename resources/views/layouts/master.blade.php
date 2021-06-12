@@ -6,7 +6,7 @@
     
 
     <!-- Webpage Title -->
-    <title>Bape World</title>
+    <title>based World</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Knewave&display=swap" rel="stylesheet">
     <!-- Styles -->
@@ -34,7 +34,7 @@
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Gemdev</a> -->
 
             <!-- Image Logo -->
-            <a class="navbar-brand " href="index.html" style="font-family: 'Creepster', cursive; text-decoration:none; color:red; font-size:50px;"> Bape Ape</a> 
+            <a class="navbar-brand " href="index.html" style="font-family: 'Creepster', cursive; text-decoration:none; color:red; font-size:50px;"> Based Ape</a> 
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
@@ -75,7 +75,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    {{-- <p class="p-small">Copyright © <a class="no-line" href="#your-link">Bape</a></p> --}}
+                    {{-- <p class="p-small">Copyright © <a class="no-line" href="#your-link">based</a></p> --}}
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->

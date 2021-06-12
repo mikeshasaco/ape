@@ -306,10 +306,10 @@
                 <div class="col-lg-12">
                     <div class="text-container">
                         <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Explore Your Ape</h3>
-                        <a href="https://t.me/bapetoken" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
-                        <a href="https://twitter.com/bapetoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
+                        <a href="https://t.me/basedtoken" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
+                        <a href="https://twitter.com/basedtoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
-                        <a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">Bape</a>
+                        <a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">based</a>
                         <img  src="images/ape.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -437,17 +437,17 @@
 
 
 
-     <section id="Merchant-help"  style="padding-top: 100px; padding-bottom:100px; background:black;" >
+    <section id="Merchant-help"  style="padding-top: 100px; padding-bottom:100px; background:black;" >
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; font-family: 'Creepster', cursive;  color:red; ">FAQ</h2>
 
                     <div class="question-title">
-                        <h3 style="color: red; font-family: 'Creepster', cursive; font-size:22px;">  What is Bape Token? </h3>
+                        <h3 style="color: red; font-family: 'Creepster', cursive; font-size:22px;">  What is based Token? </h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p>Bape Token  is a fully decentralized, peer-to-peer digital currency, owned by it’s holders.</p>
+                                <p>based Token  is a fully decentralized, peer-to-peer digital currency, owned by it’s holders.</p>
                             </div>
 
                         </div>
@@ -457,7 +457,7 @@
                    
 
                         <div class="question-title">
-                        <h3 style="font-family: 'Creepster', cursive; color:red;font-size:22px;"> Where can I get Bape Token?</h3>
+                        <h3 style="font-family: 'Creepster', cursive; color:red;font-size:22px;"> Where can I get based Token?</h3>
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
@@ -488,7 +488,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://t.me/bapetoken" target="_blank">Click Here Telegram</a>                                    
+                                        <a href="https://t.me/basedtoken" target="_blank">Click Here Telegram</a>                                    
                                 </p>
                             </div>
 
@@ -501,7 +501,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://twitter.com/bapetoken" target="_blank">Click Here Twitter</a>                                    
+                                        <a href="https://twitter.com/basedtoken" target="_blank">Click Here Twitter</a>                                    
                                 </p>
                             </div>
 
