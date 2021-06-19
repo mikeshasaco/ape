@@ -311,7 +311,7 @@
                         <a href="https://twitter.com/basedtoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
                         <a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">based</a>
-                        <img  src="images/ape.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
+                        <img  src="images/apepng23size.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
