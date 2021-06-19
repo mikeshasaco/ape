@@ -101,7 +101,7 @@
 .card.mew {
   --color1: #eb8bff;
   --color2: #7eeefa;
-  background-image: url('images/angrybg.png');
+  background-image: url('images/apepng23size.png');
 }
 
 .card > span {
