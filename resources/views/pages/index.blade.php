@@ -4,11 +4,12 @@
 
 <style>
     .header{
-  background-image: url('images/ape.png');
+  background-image: url('images/apepng23size.png');
   /* animation: holoCard 15s ease infinite; */
   background-repeat: no-repeat;
   background-position: center;
-
+      height: auto;
+      width: auto;
   
     }
 

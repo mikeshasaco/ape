@@ -22,7 +22,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="images/ape.png">
+    <link rel="icon" href="images/apepng23size.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
