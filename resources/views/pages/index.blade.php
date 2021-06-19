@@ -313,7 +313,7 @@
                     <div class="text-container">
                         <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Explore Your Ape</h3>
                         <a href="https://t.me/basedtoken" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
-                        <a href="https://twitter.com/basedtoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
+                        <a href="https://twitter.com/basedapetoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
                         <a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">based</a>
                         <img  src="images/apepng23size.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
@@ -506,7 +506,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://twitter.com/basedtoken" target="_blank">Click Here Twitter</a>                                    
+                                        <a href="https://twitter.com/basedapetoken" target="_blank">Click Here Twitter</a>                                    
                                 </p>
                             </div>
 
