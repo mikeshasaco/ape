@@ -279,7 +279,12 @@
 }
 
 
-
+@media(max-width:430px){
+   .header{
+      margin-top: 43px;
+  
+    }
+}
   
 </style>
 
