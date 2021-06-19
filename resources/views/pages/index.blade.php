@@ -419,7 +419,7 @@
                             </li>
                              <li class="media">
                                 <img src="images/gorilla.png" height="30px" width="30px" padding-right:10px; >
-                                <h4 style=" font-size:18px; color: white; font-family: 'Creepster', cursive;  padding-left:10px;">Marketing: 5% Of Total Supply.</h4>
+                                <h4 style=" font-size:18px; color: white; font-family: 'Creepster', cursive;  padding-left:10px;">Marketing: 3% Of Total Supply.</h4>
                             </li>
                             <li class="media">
                                 <img src="images/gorilla.png" height="30px" width="30px" padding-right:10px; >
