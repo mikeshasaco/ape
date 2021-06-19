@@ -311,7 +311,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Explore Your Ape</h3>
+                        <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Explore Your ($Based) Ape</h3>
                         <a href="https://t.me/basedtoken" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/basedapetoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
