@@ -312,10 +312,10 @@
                 <div class="col-lg-12">
                     <div class="text-container">
                         <h3 style="font-family: 'Creepster', cursive;  color:red; font-size:50px;">Explore Your ($Based) Ape</h3>
-                        <a href="https://t.me/basedtoken" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
+                        <a href="https://t.me/basedapetoken" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/basedapetoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
-                        <a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">based</a>
+                        {{-- <a href="https://logwork.com/countdown-phzj" class="countdown-timer" data-timezone="America/New_York" data-date="2021-06-11 21:22" style="color:white;">based</a> --}}
                         <img  src="images/apepng23size.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -493,7 +493,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://t.me/basedtoken" target="_blank">Click Here Telegram</a>                                    
+                                        <a href="https://t.me/basedapetoken" target="_blank">Click Here Telegram</a>                                    
                                 </p>
                             </div>
 
