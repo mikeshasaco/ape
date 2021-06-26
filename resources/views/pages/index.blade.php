@@ -420,11 +420,11 @@
                             </li>
                             <li class="media">
                                 <img src="images/gorilla.png" height="30px" width="30px" padding-right:10px; >
-                                <h4 style=" font-size:18px; color: white; font-family: 'Creepster', cursive;  padding-left:10px;"> 4% redistribution To Our Community Holders.</h4>
+                                <h4 style=" font-size:18px; color: white; font-family: 'Creepster', cursive;  padding-left:10px;"> 6.9% redistribution To Our Community Holders.</h4>
                             </li>
                             <li class="media">
                                 <img src="images/gorilla.png" height="30px" width="30px" >
-                                <h4 style=" font-size: 18px; color: white; font-family: 'Creepster', cursive;padding-left:10px; ">  4.20% Burn of Total Supply.</h4>
+                                <h4 style=" font-size: 18px; color: white; font-family: 'Creepster', cursive;padding-left:10px; ">  4.20% goes to liquidity .</h4>
                             </li>
                         </ul> 
                     </div> <!-- end of text-container -->
