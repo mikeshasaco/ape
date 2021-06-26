@@ -410,7 +410,7 @@
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <img src="images/gorilla.png" height="30px" width="30px" >
-                                <h4 style=" font-size: 18px; color: white; font-family: 'Creepster', cursive;padding-left:10px; ">Total Supply:  1,000,000,000,000,000</h4>
+                                <h4 style=" font-size: 18px; color: white; font-family: 'Creepster', cursive;padding-left:10px; ">Total Supply:  500,000,000,000,000</h4>
                             </li>
 
                             
