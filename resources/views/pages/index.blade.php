@@ -406,7 +406,7 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2 style="font-family: 'Creepster', cursive;  color:red;" >Tokenmics</h2>
+                        <h2 style="font-family: 'Creepster', cursive;  color:red;" >Tokenomics</h2>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <img src="images/gorilla.png" height="30px" width="30px" >
